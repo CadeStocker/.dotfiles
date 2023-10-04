@@ -1,4 +1,3 @@
-
 syntax on
 set ruler
 set autoindent
